@@ -1,4 +1,11 @@
 .cabeçalho{background-color: black;color:aqua; display:flex; justify-content: space-around;}
 .imagem-logo{width:20%}
 .cabeçalho-lista-item{display:inline-block;margin:0 16px;font: size 20px;}
-.cabeçalho
+.cabeçalho-lista-item{display:inline-block;}
+.futebol-imagem{width: 25%;}
+.roupa
+    background-image: linear-Gradient(#223232, #2d9);
+    color:white;
+    display: flex;
+    justify-content: center;
+    aling-itens: center;
