@@ -9,3 +9,50 @@
     display: flex;
     justify-content: center;
     aling-itens: center;
+    padding: 24xp 0;}
+.futebol-div-conteudo{width: 45%;}
+.futebol-titulo{padding: 30%px 0;}
+
+.campo{padding: 24px 0;}
+
+.campo-imagem{width: 140px;}
+
+.campo-div{
+    text-align: center;
+    padding: 50px 0;
+    
+    .campo-titulo{
+        text-align: center;
+        padding: 50px 0;
+        color: #ffffff;
+    }
+
+    .campo-todos{
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20%;
+    }
+
+    .campo-nome {color: #ffffff;}
+
+    .rodape{
+        background-color: #3a6852;
+        color: #ffffff;
+        text-align: center;
+    }
+
+.contato {
+    background-color: #2d9e49;
+
+}
+.contato_titulo{
+    color: #ffffff; display: flex; justify-content: space-around; align-items: center;
+}
+
+.contato_texto { color:#ffffff;
+}
+.contato_email {
+    padding: 1em;
+    border: 1px solid;
+    border-radius: 24px;
+    width: 90%;
+}
